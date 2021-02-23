@@ -2,7 +2,7 @@ baseurl: https://www.thebusinessgrad.com/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: The Business Grad
+title: TheBusinessGrad
 
 # Change it to your Disqus shortname before using
 # disqusShortname: hugo-theme-stack
