@@ -61,7 +61,7 @@ params:
             locale:
 
     widgets:
-        enabled: true
+        enabled:
             - search
             - archives
             - tag-cloud
