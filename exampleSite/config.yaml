@@ -35,10 +35,10 @@ params:
 
     sidebar:
         emoji: 
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: # text under the avatar 
         avatar:
             local: true
-            src: img/avatar.png
+            src: # img/avatar.png
 
     article:
         math: false
@@ -47,7 +47,7 @@ params:
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: true
+        enabled: false 
         provider: disqus
 
         utterances:
