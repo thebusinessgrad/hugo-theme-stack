@@ -18,9 +18,7 @@ aliases = []
 image = "Fortune_2_2021.jpg"
 +++
 
-# Fortune - February-March 2021
-
-## Key Takeaways
+# Key Takeaways
 
 > Key takeaways here
 
