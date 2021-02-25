@@ -1,8 +1,8 @@
 +++
 author = "Burak Tunca"
-title = "Fortune - February/March 2021"
+title = "Fortune - February-March 2021"
 date = "2021-02-25"
-description = "Summaries and key takeaways from the Fortune magazine February/March 2021 issue."
+description = "Summaries and key takeaways from selecter articles in the Fortune magazine February/March 2021 issue."
 tags = [
     "markdown",
     "css",
